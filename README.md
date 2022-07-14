@@ -11,3 +11,8 @@ Only put text data into the model .
 Only put picture data into the model.
 ### fusion.py
 fusion the text data and the picture data ,then put them into the model.
+
+data directory
+### 实验五数据
+A directory named data ,two text file ,train.txt and test_without_lable.txt .
+In data , there are the training datasets like 1.jpg and 1.txt . 
