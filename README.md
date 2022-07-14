@@ -16,3 +16,6 @@ data directory
 ### 实验五数据
 A directory named data ,two text file ,train.txt and test_without_lable.txt .
 In data , there are the training datasets like 1.jpg and 1.txt . 
+
+# notice 
+Because the dataset is too big , so I didn't upload it .
